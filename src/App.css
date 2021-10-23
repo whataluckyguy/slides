@@ -1,0 +1,16 @@
+.App {
+  height: 450px;
+}
+.App > img {
+  height: 450px;
+  width: 100%;
+  object-fit: cover;
+}
+.gradient {
+  height: 450px;
+  width: 55vw;
+  /* background: linear-gradient(90deg, #68e1ea 75%, transparent); */
+  z-index: 10;
+  position: absolute;
+  /* color: white; */
+}
